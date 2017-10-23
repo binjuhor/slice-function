@@ -1,2 +1,3 @@
-Example about splice function.
+Example about slice function.
 Append image
+For @vnmilky
